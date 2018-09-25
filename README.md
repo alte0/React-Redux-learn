@@ -1,2 +1,2 @@
 # React-Redux-learn
-по учебнику [https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/](React Redux)
+по учебнику [React Redux](https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/
