@@ -87,9 +87,14 @@ h3 {
   transition: .2s ease-out;
   cursor: pointer;
 }
-.btn:not(:last-child) {
+.btn {
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 .btn:hover {
   background-color: #6d8cb0
+}
+.photo {
+  display: inline-block;
+  padding: 5px;
 }
